@@ -1,0 +1,15 @@
+img
+{
+	width:30%;
+	margin: 1.2%;
+
+}
+nav
+{
+	font-size: 100px;
+	font-family: 'Roboto', sans-serif;
+	margin-left:1.2%;
+	border-bottom: 2px solid black;
+	text-transform: uppercase;
+	padding: 1.2% 0;
+}
